@@ -1,6 +1,6 @@
 package main
 
-import "/server"
+import "./server"
 
 func main() {
 	r := server.SetupRouter()
