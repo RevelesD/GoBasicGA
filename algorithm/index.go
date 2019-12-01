@@ -1,14 +1,14 @@
 package algorithm
 
 import (
-	co "../algorithm/Codification"
-	fi "../algorithm/FitnessFunction"
-	in "../algorithm/InitialPopulation"
-	c "../algorithm/crossover"
-	m "../algorithm/mutation"
-	se "../algorithm/selection"
-	"../lib"
 	"fmt"
+	co "github.com/RevelesD/GoBasicGA/algorithm/Codification"
+	fi "github.com/RevelesD/GoBasicGA/algorithm/FitnessFunction"
+	in "github.com/RevelesD/GoBasicGA/algorithm/InitialPopulation"
+	c "github.com/RevelesD/GoBasicGA/algorithm/crossover"
+	m "github.com/RevelesD/GoBasicGA/algorithm/mutation"
+	se "github.com/RevelesD/GoBasicGA/algorithm/selection"
+	"github.com/RevelesD/GoBasicGA/lib"
 	"math/rand"
 	"time"
 )

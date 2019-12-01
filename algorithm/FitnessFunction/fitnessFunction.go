@@ -1,7 +1,7 @@
 package FitnessFunction
 
 import (
-	"../../lib"
+	"github.com/RevelesD/GoBasicGA/lib"
 	"math"
 )
 // This function has hardcoded variables and operations

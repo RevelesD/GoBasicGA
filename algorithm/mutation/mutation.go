@@ -1,7 +1,7 @@
 package mutation
 
 import (
-	"../../lib"
+	"github.com/RevelesD/GoBasicGA/lib"
 	"math/rand"
 )
 

@@ -1,6 +1,6 @@
 package selection
 
-import "../../lib"
+import "github.com/RevelesD/GoBasicGA/lib"
 
 /**
 * @Param(c) current generation

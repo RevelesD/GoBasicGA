@@ -1,8 +1,8 @@
 package Codification
 
 import (
-	"../../lib"
 	"fmt"
+	"github.com/RevelesD/GoBasicGA/lib"
 	"math"
 )
 

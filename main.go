@@ -1,7 +1,7 @@
 package main
 
 import (
-	"./server"
+	"github.com/RevelesD/GoBasicGA/server"
 	"github.com/gin-gonic/gin"
 )
 

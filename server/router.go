@@ -1,12 +1,10 @@
 package server
 
 import (
-	al "../algorithm"
+	al "github.com/RevelesD/GoBasicGA/algorithm"
 	"github.com/gin-contrib/cors"
 	"github.com/gin-gonic/gin"
 	"sort"
-
-	//"sort"
 )
 
 func SetupRouter() *gin.Engine {

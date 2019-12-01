@@ -1,7 +1,7 @@
 package selection
 
 import (
-	"../../lib"
+	"github.com/RevelesD/GoBasicGA/lib"
 	"sort"
 )
 

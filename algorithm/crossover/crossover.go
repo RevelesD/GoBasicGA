@@ -1,8 +1,8 @@
 package crossover
 
 import (
-	in "../../algorithm/InitialPopulation"
-	"../../lib"
+	in "github.com/RevelesD/GoBasicGA/algorithm/InitialPopulation"
+	"github.com/RevelesD/GoBasicGA/lib"
 	"math/rand"
 )
 

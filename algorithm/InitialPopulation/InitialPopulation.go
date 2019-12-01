@@ -1,7 +1,7 @@
 package InitialPopulation
 
 import (
-	"../../lib"
+	"github.com/RevelesD/GoBasicGA/lib"
 	"math/rand"
 )
 
