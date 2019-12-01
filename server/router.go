@@ -12,7 +12,6 @@ import (
 func SetupRouter() *gin.Engine {
 	r := gin.Default()
 	r.Use(cors.Default())
-	r.SetMode(gin.ReleaseMode)
 
 	r.POST("/startga", func(c *gin.Context) {
 		type Entries struct {
